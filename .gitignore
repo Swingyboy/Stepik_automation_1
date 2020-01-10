@@ -1,3 +1,4 @@
 
 *.pyc
 *.log
+tests/test_parser.py
